@@ -1,0 +1,59 @@
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe.config
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\bin\Debug\Chat_Tumanov.pdb
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.csprojAssemblyReference.cache
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form1.resources
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.Properties.Resources.resources
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.GenerateResource.cache
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.exe
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.pdb
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe.config
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.exe
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.pdb
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.csprojResolveAssemblyReference.cache
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form1.resources
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.Properties.Resources.resources
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.GenerateResource.Cache
+E:\Разработка клиент-серверных приложений\Chat\Chat_Tumanov\Chat_Tumanov\bin\Debug\Chat_Tumanov.pdb
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form2.resources
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\bin\Debug\AppData\Registration.mdf
+E:\Visual Studio\Chat_Tumanov\Chat_Tumanov\bin\Debug\AppData\Registration_log.ldf
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe.config
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.exe
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.pdb
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\AppData\Registration.mdf
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\AppData\Registration_log.ldf
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.pdb
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csprojResolveAssemblyReference.cache
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form1.resources
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form2.resources
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Properties.Resources.resources
+C:\Users\student-09-330\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.GenerateResource.Cache
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe.config
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.exe
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.pdb
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csprojResolveAssemblyReference.cache
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form1.resources
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form2.resources
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Properties.Resources.resources
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.GenerateResource.Cache
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\AppData\Registration.mdf
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\AppData\Registration_log.ldf
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe
+C:\Users\student-09-331\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.pdb
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\AppData\Registration.mdf
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\AppData\Registration_log.ldf
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe.config
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.exe
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\bin\Debug\Chat_Tumanov.pdb
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csprojAssemblyReference.cache
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form1.resources
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Form2.resources
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.Properties.Resources.resources
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.GenerateResource.cache
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.csproj.CoreCompileInputs.cache
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.exe
+C:\Users\Danii\Desktop\Chat_DB\Chat_Tumanov\obj\Debug\Chat_Tumanov.pdb
